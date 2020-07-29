@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1595975835 source:c:\users\juan de la canal\desktop\recuperatorio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596019430 c:\users\juan de la canal\desktop\recuperatorio\linkedlist.h
+
+1596030910 source:c:\users\juan de la canal\desktop\recuperatorio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+
+1596027491 c:\users\juan de la canal\desktop\recuperatorio\parser.h
+	"LinkedList.h"
+
+1596032077 c:\users\juan de la canal\desktop\recuperatorio\controller.h
+	"LinkedList.h"
+
+1596032077 source:c:\users\juan de la canal\desktop\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"controller.h"
+	"bicicletas.h"
+	<time.h>
+
+1596032077 c:\users\juan de la canal\desktop\recuperatorio\bicicletas.h
+	"LinkedList.h"
+
+1596032077 source:c:\users\juan de la canal\desktop\recuperatorio\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Controller.h"
+	"bicicletas.h"
+
+1596027579 source:c:\users\juan de la canal\desktop\recuperatorio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"bicicletas.h"
+
